@@ -14,3 +14,5 @@ Scratch Project for the Kotlin Test-Teach for [DevelopIntelligence](http://devel
   * `kotlinx-serialization` already added to the classpath and is available to the UnitTest runner.
   * [`ScratchTests.kt`](./app/src/test/java/com/example/scratches/ScratchTests.kt) which has a number of tests in a red/green state (will be addressed during the teach).
   
+## Link to slides:
+ * Follow along in [the presentation](https://docs.google.com/presentation/d/1hita-ltKdErrPT9S_6OSpf1F2IVbZOZmyOLGsOMn9no/edit?usp=sharing).
